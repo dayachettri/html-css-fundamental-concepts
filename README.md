@@ -1,2 +1,10 @@
 # html-css-fundamental-concepts
-A page made by some fundamental concepts of HTML & CSS
+
+Website showcasing fundamental concepts of HTML & CSS using:
+
+1. HTML Fundamentals
+2. CSS FUNDAMENTALS:
+
+- Box-Model
+- Flexbox
+- Grid
